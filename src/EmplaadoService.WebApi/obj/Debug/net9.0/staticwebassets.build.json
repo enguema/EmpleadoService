@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WbjqVc2UtNFFbnQMlmbbnOAXI9J0g64tJUlMVmciJ0A=",
+  "Source": "EmplaadoService.WebApi",
+  "BasePath": "_content/EmplaadoService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
